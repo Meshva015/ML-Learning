@@ -1,0 +1,16 @@
+product_id,product_name,category,price,stock_quantity,rating
+PROD001,Wireless Mouse,Electronics,3357.13,42,5.0
+PROD002,Bluetooth Speaker,Electronics,4298.29,17,3.5
+PROD003,Gaming Keyboard,Electronics,2349.04,51,2.9
+PROD004,Notebook,Stationery,1873.06,90,3.2
+PROD005,Office Chair,Furniture,2556.54,87,2.7
+PROD006,Water Bottle,Lifestyle,3229.64,73,4.3
+PROD007,Laptop Stand,Electronics,942.5,53,3.2
+PROD008,Pen Pack,Stationery,4638.15,93,3.9
+PROD009,Smart Watch,Electronics,3470.38,12,3.1
+PROD010,Backpack,Lifestyle,305.69,45,3.5
+PROD011,Led Lamp,Home,471.01,77,4.7
+PROD012,Usb Cable,Electronics,1676.19,88,3.7
+PROD013,Coffee Mug,Home,4440.71,87,3.6
+PROD014,Study Table,Furniture,1434.67,36,4.4
+PROD015,Power Bank,Electronics,2764.04,100,4.0
